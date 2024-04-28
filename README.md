@@ -1,6 +1,7 @@
 <h1><u>Home Page</u></h1>
 
-![Screenshot 2024-04-07 234334](https://github.com/Debarjitmohanty/Bakery/assets/91021174/e6dbf4ce-0108-4f2a-96f7-46e1bfbb595c)
+![Screenshot 2024-04-07 234203](https://github.com/Debarjitmohanty/Bakery/assets/91021174/9589f75f-4861-4627-a471-0edfaa068a2c)
+
 
 <h1><u>About Us Page</u></h1>
 
